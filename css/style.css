@@ -118,11 +118,7 @@
     height: 100px ;
     padding-top: 10px;
 }
-.bottom-container a{
-    color:#11A0A5;
-    text-decoration:none;
-    
-}
+ 
 .bottom-container a:hover{
     color: white;
 }
@@ -136,9 +132,13 @@
     margin: 20px;
 }
 .bottom-container a {
-    padding-right: 50px;
+   padding-right: 50px;
     margin-left: 20px;
     text-align: center;
+    text-decoration:none;
+    font-style: bold;
+    font-size: 20px;
+    color:#024547;
 
 
 }

@@ -1,0 +1,168 @@
+ 
+ /* General set up for brwser */
+ body {
+     margin: 0px;
+     text-align: center;
+     font-family: 'Merriweather',serif;
+       
+ }
+ 
+ h1 {
+     margin: 0px;
+     font-size: 2.5rem;
+      color: #66BFBF;
+      line-height: 2;
+      font-family: 'Sacramento',cursive;
+     
+ }
+
+ h2{
+     color: #66BFBF;
+      font-family: 'Montserrat', sans-serif;
+     
+ }
+ h3,a{
+     color:#11999E;
+      font-family: 'Montserrat',sans-serif;
+ }
+ p{
+     line-height: 2;
+ }
+  
+ .job_paragraph{
+     font-weight: normal;
+     color: #66BFBF;
+ }
+  
+ .top_container{
+   
+    background-color: #DFF8F4;
+    position: relative;
+    padding-top: 120px;
+    margin-bottom: 40px ;
+      
+ }
+ .middel_container{
+      
+    margin-bottom: 40px;
+ }
+ .bottom_container{
+      
+ margin-bottom: 40px;
+   
+ }
+ .job_span{
+     text-decoration: underline;
+ }
+  .top_cloud{
+      position:absolute;
+      right: 200px;
+      bottom: 550px;
+     
+      
+  }
+  .bottom_cloud{
+      position: absolute;
+      top: 250px;
+      left: 150px;
+  }
+  .skill-row{
+      width: 50%;
+      margin: 100px auto 100px auto;
+      text-align:left;
+  }
+    
+  .myImage{
+      width:150px;
+      height: 150px;
+      border-radius: 50%;
+  }
+   
+ .programming,
+ .responsive {
+     width: 25%;
+     
+     float: left;
+     
+ }
+ .programming{
+    float: left;
+    margin-right: 30px;
+ }
+ .responsive {
+     
+     float: right;
+     margin-left: 30px
+     
+ }
+
+ .btn {
+     
+     background-color:#11A0A5;
+     color: white;
+     font-family: Arial, Helvetica, sans-serif;
+     line-height: 2;
+    padding: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+     text-decoration: none;
+     border-radius: 10px;
+     margin: 100px;
+     
+ }
+ .btn :hover{
+     background-color: rgb(255, 255, 255);
+ }
+.bottom-container{
+    background-color: #66BFBF;
+    height: 100px ;
+    padding-top: 10px;
+}
+.bottom-container a{
+    color:#11A0A5;
+    
+}
+.bottom-container a:hover{
+    color: white;
+}
+.bottom-container p{
+    color: white;
+}
+.contact-me h2,p{
+    margin: 30px;
+}
+.contact-me .btn{
+    margin: 20px;
+}
+.bottom-container a {
+    padding-right: 50px;
+    margin-left: 20px;
+    text-align: center;
+
+
+}
+.contact-me .btn:hover{
+     background-color:turquoise;
+}
+ .bottom-container {
+     position: relative;
+ }
+ .footer-link   {
+     position: relative;
+     top:15px;
+     left: 40px;
+     
+
+}
+.profile p{
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
+
+hr{
+   border: dotted #b4b8b8 6px; 
+   border-bottom: none;
+   width: 4%;
+   margin: 100px auto;
+}
